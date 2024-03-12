@@ -1,0 +1,16 @@
+.active{
+   border: none;
+   border-bottom: 1px solid black;
+   
+}
+
+.menu-list{
+    max-width: 500px;
+    width: 100%;
+}
+
+ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
